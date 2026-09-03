@@ -1,0 +1,14 @@
+id: detector_298847
+name: Detector 298847
+name[zh]: 检测器 298847
+version: 1.0.0
+author: Elix Vader
+icon: ''
+desc: 识别钢珠
+exclude:
+  - __pycache__
+  - build
+  - dist
+  - .gitignore
+files:
+  - main.py

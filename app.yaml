@@ -1,0 +1,17 @@
+id: detector_298847
+name: Ball Position RTSP UART
+name[zh]: 钢珠位置识别图传
+version: 2.1.0
+author: Elix Vader
+icon: ""
+desc: Steel-ball detection, 720p RTSP over a MaixCAM Wi-Fi AP, and MSPM0 UART position output.
+desc[zh]: 双通道钢珠识别、720p RTSP图传和MSPM0串口位置输出。
+exclude:
+  - __pycache__
+  - build
+  - dist
+  - .gitignore
+files:
+  - main.py
+  - model_298847.mud
+  - model_298847.cvimodel
